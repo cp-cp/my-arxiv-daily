@@ -10,7 +10,6 @@
   </ol>
 </details>
 
-
 ## Image Generation
 
 |Publish Date|Title|Authors|PDF|Code|
