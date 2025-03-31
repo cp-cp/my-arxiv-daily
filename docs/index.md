@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.26
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774](http://arxiv.org/abs/2503.21774)|**[link](https://github.com/bebebe666/optimalsteps)**|
+|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758](http://arxiv.org/abs/2503.21758)|**[link](https://github.com/alpha-vllm/lumina-image-2.0)**|
+|**2025-03-27**|**A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One**|Minyoung Kim et.al.|[2503.21756](http://arxiv.org/abs/2503.21756)|null|
+|**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747](http://arxiv.org/abs/2503.21747)|null|
+|**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
+|**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
+|**2025-03-27**|**UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning**|Hongxuan Tang et.al.|[2503.21193](http://arxiv.org/abs/2503.21193)|null|
+|**2025-03-27**|**Model as a Game: On Numerical and Spatial Consistency for Generative Games**|Jingye Chen et.al.|[2503.21172](http://arxiv.org/abs/2503.21172)|null|
+|**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
+|**2025-03-26**|**Unified Multimodal Discrete Diffusion**|Alexander Swerdlow et.al.|[2503.20853](http://arxiv.org/abs/2503.20853)|**[link](https://github.com/alexanderswerdlow/unidisc)**|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
 |**2025-03-24**|**SKDU at De-Factify 4.0: Vision Transformer with Data Augmentation for AI-Generated Image Detection**|Shrikant Malviya et.al.|[2503.18812](http://arxiv.org/abs/2503.18812)|null|
 |**2025-03-24**|**Self-Supervised Learning based on Transformed Image Reconstruction for Equivariance-Coherent Feature Representation**|Qin Wang et.al.|[2503.18753](http://arxiv.org/abs/2503.18753)|null|
@@ -34,6 +44,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**|Chi-Pin Huang et.al.|[2503.21781](http://arxiv.org/abs/2503.21781)|null|
+|**2025-03-27**|**Exploring the Evolution of Physics Cognition in Video Generation: A Survey**|Minghui Lin et.al.|[2503.21765](http://arxiv.org/abs/2503.21765)|**[link](https://github.com/minnie-lin/awesome-physics-cognition-based-video-generation)**|
+|**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755](http://arxiv.org/abs/2503.21755)|**[link](https://github.com/vchitect/vbench)**|
+|**2025-03-27**|**Audio-driven Gesture Generation via Deviation Feature in the Latent Space**|Jiahui Chen et.al.|[2503.21616](http://arxiv.org/abs/2503.21616)|null|
+|**2025-03-27**|**ChatAnyone: Stylized Real-time Portrait Video Generation with Hierarchical Motion Diffusion Model**|Jinwei Qi et.al.|[2503.21144](http://arxiv.org/abs/2503.21144)|null|
+|**2025-03-26**|**RecTable: Fast Modeling Tabular Data with Rectified Flow**|Masane Fuchi et.al.|[2503.20731](http://arxiv.org/abs/2503.20731)|**[link](https://github.com/fmp453/rectable)**|
+|**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654](http://arxiv.org/abs/2503.20654)|null|
+|**2025-03-26**|**GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving**|Lloyd Russell et.al.|[2503.20523](http://arxiv.org/abs/2503.20523)|null|
+|**2025-03-26**|**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization**|Jiale Cheng et.al.|[2503.20491](http://arxiv.org/abs/2503.20491)|**[link](https://github.com/thu-coai/vpo)**|
+|**2025-03-26**|**Wan: Open and Advanced Large-Scale Video Generative Models**|WanTeam et.al.|[2503.20314](http://arxiv.org/abs/2503.20314)|**[link](https://github.com/wan-video/wan2.1)**|
 |**2025-03-25**|**Aether: Geometric-Aware Unified World Modeling**|Aether Team et.al.|[2503.18945](http://arxiv.org/abs/2503.18945)|null|
 |**2025-03-24**|**Video-T1: Test-Time Scaling for Video Generation**|Fangfu Liu et.al.|[2503.18942](http://arxiv.org/abs/2503.18942)|null|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
@@ -59,8 +79,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-25**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|null|
-|**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|null|
+|**2025-03-28**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541](http://arxiv.org/abs/2503.21541)|**[link](https://github.com/locatedit/locatedit)**|
+|**2025-03-26**|**EditCLIP: Representation Learning for Image Editing**|Qian Wang et.al.|[2503.20318](http://arxiv.org/abs/2503.20318)|**[link](https://github.com/qianwangx/editclip)**|
+|**2025-03-25**|**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model**|Jun Zhou et.al.|[2503.19839](http://arxiv.org/abs/2503.19839)|null|
+|**2025-03-24**|**FDS: Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing**|Yufan Ren et.al.|[2503.19191](http://arxiv.org/abs/2503.19191)|null|
+|**2025-03-25**|**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning**|Sherry X. Chen et.al.|[2503.18406](http://arxiv.org/abs/2503.18406)|**[link](https://github.com/sherryxtchen/instruct-clip)**|
+|**2025-03-24**|**MaSS13K: A Matting-level Semantic Segmentation Benchmark**|Chenxi Xie et.al.|[2503.18364](http://arxiv.org/abs/2503.18364)|**[link](https://github.com/xiechenxi99/mass13k)**|
 |**2025-03-23**|**Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance**|Harang Ju et.al.|[2503.18238](http://arxiv.org/abs/2503.18238)|null|
 |**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899](http://arxiv.org/abs/2503.17899)|null|
 |**2025-03-22**|**InstructVEdit: A Holistic Approach for Instructional Video Editing**|Chi Zhang et.al.|[2503.17641](http://arxiv.org/abs/2503.17641)|null|
