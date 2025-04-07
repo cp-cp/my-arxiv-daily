@@ -1,4 +1,4 @@
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-04-02**|**Foreground Focus: Enhancing Coherence and Fidelity in Camouflaged Image Generation**|Pei-Chi Chen et.al.|[2504.02180](http://arxiv.org/abs/2504.02180)|null|
 |**2025-04-02**|**Less-to-More Generalization: Unlocking More Controllability by In-Context Generation**|Shaojin Wu et.al.|[2504.02160](http://arxiv.org/abs/2504.02160)|null|
 |**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
-|**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|null|
+|**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|**[link](https://github.com/tiiuae/FineLIP)**|
 |**2025-04-02**|**Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology**|Lirui Qi et.al.|[2504.01577](http://arxiv.org/abs/2504.01577)|null|
 |**2025-04-02**|**High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model**|Yiyang Shen et.al.|[2504.01512](http://arxiv.org/abs/2504.01512)|null|
 |**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
@@ -29,16 +29,16 @@
 |**2025-03-28**|**Intrinsic Image Decomposition for Robust Self-supervised Monocular Depth Estimation on Reflective Surfaces**|Wonhyeok Choi et.al.|[2503.22209](http://arxiv.org/abs/2503.22209)|null|
 |**2025-03-28**|**ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation**|Yunhong Min et.al.|[2503.22194](http://arxiv.org/abs/2503.22194)|null|
 |**2025-03-28**|**Sell It Before You Make It: Revolutionizing E-Commerce with Personalized AI-Generated Items**|Jianghao Lin et.al.|[2503.22182](http://arxiv.org/abs/2503.22182)|null|
-|**2025-03-28**|**An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval**|Min Cao et.al.|[2503.22171](http://arxiv.org/abs/2503.22171)|null|
+|**2025-03-28**|**An Empirical Study of Validating Synthetic Data for Text-Based Person Retrieval**|Min Cao et.al.|[2503.22171](http://arxiv.org/abs/2503.22171)|**[link](https://github.com/flame-chasers/syntbpr)**|
 |**2025-03-28**|**Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis**|Woojung Han et.al.|[2503.22168](http://arxiv.org/abs/2503.22168)|null|
 |**2025-03-28**|**Improving the generalization of deep learning models in the segmentation of mammography images**|Jan Hurtado et.al.|[2503.22052](http://arxiv.org/abs/2503.22052)|null|
-|**2025-03-27**|**Harmonizing Visual Representations for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2503.21979](http://arxiv.org/abs/2503.21979)|null|
+|**2025-03-27**|**Harmonizing Visual Representations for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2503.21979](http://arxiv.org/abs/2503.21979)|**[link](https://github.com/wusize/harmon)**|
 |**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774](http://arxiv.org/abs/2503.21774)|**[link](https://github.com/bebebe666/optimalsteps)**|
 |**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758](http://arxiv.org/abs/2503.21758)|**[link](https://github.com/alpha-vllm/lumina-image-2.0)**|
 |**2025-03-27**|**A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One**|Minyoung Kim et.al.|[2503.21756](http://arxiv.org/abs/2503.21756)|null|
 |**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747](http://arxiv.org/abs/2503.21747)|null|
 |**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
-|**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|null|
+|**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277](http://arxiv.org/abs/2503.21277)|**[link](https://github.com/ToyotaCRDL/Visual-Concept-Blending)**|
 |**2025-03-27**|**UGen: Unified Autoregressive Multimodal Model with Progressive Vocabulary Learning**|Hongxuan Tang et.al.|[2503.21193](http://arxiv.org/abs/2503.21193)|null|
 |**2025-03-27**|**Model as a Game: On Numerical and Spatial Consistency for Generative Games**|Jingye Chen et.al.|[2503.21172](http://arxiv.org/abs/2503.21172)|null|
 |**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
@@ -64,7 +64,7 @@
 |**2025-03-19**|**Efficient Personalization of Quantized Diffusion Model without Backpropagation**|Hoigi Seo et.al.|[2503.14868](http://arxiv.org/abs/2503.14868)|null|
 |**2025-03-18**|**ShapeShift: Towards Text-to-Shape Arrangement Synthesis with Content-Aware Geometric Constraints**|Vihaan Misra et.al.|[2503.14720](http://arxiv.org/abs/2503.14720)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## Video Generation
 
@@ -114,7 +114,7 @@
 |**2025-03-18**|**AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark**|Xinhao Xiang et.al.|[2503.14064](http://arxiv.org/abs/2503.14064)|**[link](https://github.com/shanexiangh/aigve_tool)**|
 |**2025-03-17**|**Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction**|Zheyuan Liu et.al.|[2503.12953](http://arxiv.org/abs/2503.12953)|null|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 ## Image Editing
 
@@ -154,7 +154,7 @@
 |**2025-03-14**|**Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities**|Ruchika Chavhan et.al.|[2503.11905](http://arxiv.org/abs/2503.11905)|null|
 |**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|**[link](https://github.com/sincostanx/lusd)**|
 
-<p align=right>(<a href=#updated-on-20250406>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/cp-cp/my-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/cp-cp/my-arxiv-daily/graphs/contributors
