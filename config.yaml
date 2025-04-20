@@ -23,8 +23,8 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Image Generation":
-        filters: ["Image Generation"]
+        filters: ["Image Generation", "Efficint", "Acceleration"]
     "Video Generation":
-        filters: ["Video Generation"]
+        filters: ["Video Generation", "Efficint", "Acceleration"]
     "Image Editing":
         filters: ["Image Editing"]
