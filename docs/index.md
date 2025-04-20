@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
+|**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101](http://arxiv.org/abs/2504.13101)|null|
+|**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
+|**2025-04-17**|**HiScene: Creating Hierarchical 3D Scenes with Isometric View Generation**|Wenqi Dong et.al.|[2504.13072](http://arxiv.org/abs/2504.13072)|null|
+|**2025-04-17**|**ArtistAuditor: Auditing Artist Style Pirate in Text-to-Image Generation Models**|Linkang Du et.al.|[2504.13061](http://arxiv.org/abs/2504.13061)|**[link](https://github.com/jozenn/artistauditor)**|
+|**2025-04-17**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins**|Yao Mu et.al.|[2504.13059](http://arxiv.org/abs/2504.13059)|null|
+|**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046](http://arxiv.org/abs/2504.13046)|null|
+|**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034](http://arxiv.org/abs/2504.13034)|null|
+|**2025-04-17**|**Simultaneous Polysomnography and Cardiotocography Reveal Temporal Correlation Between Maternal Obstructive Sleep Apnea and Fetal Hypoxia**|Jingyu Wang et.al.|[2504.13010](http://arxiv.org/abs/2504.13010)|null|
+|**2025-04-17**|**Lessons from commissioning of the cryogenic system for the Short-Baseline Neutrino Detector at Fermilab**|Frederick Schwartz et.al.|[2504.12969](http://arxiv.org/abs/2504.12969)|null|
 |**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466](http://arxiv.org/abs/2504.10466)|null|
 |**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
 |**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
@@ -83,6 +93,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101](http://arxiv.org/abs/2504.13101)|null|
+|**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
+|**2025-04-17**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046](http://arxiv.org/abs/2504.13046)|null|
+|**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034](http://arxiv.org/abs/2504.13034)|null|
+|**2025-04-17**|**Simultaneous Polysomnography and Cardiotocography Reveal Temporal Correlation Between Maternal Obstructive Sleep Apnea and Fetal Hypoxia**|Jingyu Wang et.al.|[2504.13010](http://arxiv.org/abs/2504.13010)|null|
+|**2025-04-17**|**Lessons from commissioning of the cryogenic system for the Short-Baseline Neutrino Detector at Fermilab**|Frederick Schwartz et.al.|[2504.12969](http://arxiv.org/abs/2504.12969)|null|
+|**2025-04-17**|**Taccel: Scaling Up Vision-based Tactile Robotics via High-performance GPU Simulation**|Yuyang Li et.al.|[2504.12908](http://arxiv.org/abs/2504.12908)|**[link](https://github.com/Taccel-Simulator/Taccel)**|
+|**2025-04-17**|**Why $w \ne -1$? Anthropic Selection in a $Λ$ + Axion Dark Energy Model**|Kai Murai et.al.|[2504.12852](http://arxiv.org/abs/2504.12852)|null|
+|**2025-04-17**|**Particle-based Simulation of an Air-Breathing Electric Propulsion System**|Pietro Parodi et.al.|[2504.12829](http://arxiv.org/abs/2504.12829)|null|
 |**2025-04-14**|**FingER: Content Aware Fine-grained Evaluation with Reasoning for AI-Generated Videos**|Rui Chen et.al.|[2504.10358](http://arxiv.org/abs/2504.10358)|null|
 |**2025-04-14**|**Aligning Anime Video Generation with Human Feedback**|Bingwen Zhu et.al.|[2504.10044](http://arxiv.org/abs/2504.10044)|null|
 |**2025-04-14**|**EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise**|Chao Liu et.al.|[2504.09789](http://arxiv.org/abs/2504.09789)|null|
@@ -151,8 +171,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
-|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|null|
+|**2025-04-17**|**$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**|Siwei Yang et.al.|[2504.13143](http://arxiv.org/abs/2504.13143)|null|
+|**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
+|**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|**[link](https://github.com/ebenarous/editspecialists)**|
+|**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704](http://arxiv.org/abs/2504.12704)|null|
+|**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|null|
+|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|**[link](https://github.com/hutaihang/atm)**|
+|**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
 |**2025-04-10**|**POEM: Precise Object-level Editing via MLLM control**|Marco Schouten et.al.|[2504.08111](http://arxiv.org/abs/2504.08111)|null|
 |**2025-04-10**|**Learning Universal Features for Generalizable Image Forgery Localization**|Hengrun Zhao et.al.|[2504.07462](http://arxiv.org/abs/2504.07462)|**[link](https://github.com/zhaohengrun/gifl)**|
