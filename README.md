@@ -25,17 +25,17 @@
 |**2025-04-17**|**Simultaneous Polysomnography and Cardiotocography Reveal Temporal Correlation Between Maternal Obstructive Sleep Apnea and Fetal Hypoxia**|Jingyu Wang et.al.|[2504.13010](http://arxiv.org/abs/2504.13010)|null|
 |**2025-04-18**|**Lessons from commissioning of the cryogenic system for the Short-Baseline Neutrino Detector at Fermilab**|Frederick Schwartz et.al.|[2504.12969](http://arxiv.org/abs/2504.12969)|null|
 |**2025-04-14**|**Art3D: Training-Free 3D Generation from Flat-Colored Illustration**|Xiaoyan Cong et.al.|[2504.10466](http://arxiv.org/abs/2504.10466)|null|
-|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
+|**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|**[link](https://github.com/hutaihang/atm)**|
 |**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
-|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|null|
+|**2025-04-14**|**VibrantLeaves: A principled parametric image generator for training deep restoration models**|Raphael Achddou et.al.|[2504.10201](http://arxiv.org/abs/2504.10201)|**[link](https://github.com/rachddou/deadleavesplus)**|
 |**2025-04-14**|**GeoUni: A Unified Model for Generating Geometry Diagrams, Problems and Problem Solutions**|Jo-Ku Cheng et.al.|[2504.10146](http://arxiv.org/abs/2504.10146)|null|
 |**2025-04-14**|**Masked Autoencoder Self Pre-Training for Defect Detection in Microelectronics**|Nikolai Röhrich et.al.|[2504.10021](http://arxiv.org/abs/2504.10021)|null|
 |**2025-04-14**|**Omni-Dish: Photorealistic and Faithful Image Generation and Editing for Arbitrary Chinese Dishes**|Huijie Liu et.al.|[2504.09948](http://arxiv.org/abs/2504.09948)|null|
 |**2025-04-13**|**Early-Bird Diffusion: Investigating and Leveraging Timestep-Aware Early-Bird Tickets in Diffusion Models for Efficient Training**|Lexington Whalen et.al.|[2504.09606](http://arxiv.org/abs/2504.09606)|null|
 |**2025-04-13**|**DiffuMural: Restoring Dunhuang Murals with Multi-scale Diffusion**|Puyu Han et.al.|[2504.09513](http://arxiv.org/abs/2504.09513)|null|
 |**2025-04-13**|**D $^2$ iT: Dynamic Diffusion Transformer for Accurate Image Generation**|Weinan Jia et.al.|[2504.09454](http://arxiv.org/abs/2504.09454)|null|
-|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
-|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|null|
+|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|**[link](https://github.com/alpha-innovator/omnicaptioner)**|
+|**2025-04-09**|**A Unified Agentic Framework for Evaluating Conditional Image Generation**|Jifang Wang et.al.|[2504.07046](http://arxiv.org/abs/2504.07046)|**[link](https://github.com/hitsz-tmg/agentic-cigeval)**|
 |**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-09**|**A Meaningful Perturbation Metric for Evaluating Explainability Methods**|Danielle Cohen et.al.|[2504.06800](http://arxiv.org/abs/2504.06800)|null|
@@ -124,7 +124,7 @@
 |**2025-04-09**|**DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation**|Wangbo Zhao et.al.|[2504.06803](http://arxiv.org/abs/2504.06803)|null|
 |**2025-04-09**|**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism**|Elia Peruzzo et.al.|[2504.06672](http://arxiv.org/abs/2504.06672)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
-|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|null|
+|**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|**[link](https://github.com/ldenninger/camcontexti2v)**|
 |**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
 |**2025-04-07**|**Video-Bench: Human-Aligned Video Generation Benchmark**|Hui Han et.al.|[2504.04907](http://arxiv.org/abs/2504.04907)|null|
 |**2025-04-05**|**Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization**|Yikai Wang et.al.|[2504.04153](http://arxiv.org/abs/2504.04153)|**[link](https://github.com/yikaiw/vidu4d)**|
@@ -203,8 +203,8 @@
 |**2025-04-02**|**FreSca: Unveiling the Scaling Space in Diffusion Models**|Chao Huang et.al.|[2504.02154](http://arxiv.org/abs/2504.02154)|null|
 |**2025-04-03**|**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement**|Runhui Huang et.al.|[2504.01934](http://arxiv.org/abs/2504.01934)|null|
 |**2025-04-02**|**A Diffusion-Based Framework for Occluded Object Movement**|Zheng-Peng Duan et.al.|[2504.01873](http://arxiv.org/abs/2504.01873)|null|
-|**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|null|
-|**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|null|
+|**2025-03-31**|**AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents**|Jiaxiang Chen et.al.|[2503.23948](http://arxiv.org/abs/2503.23948)|**[link](https://github.com/avdpro/ai2apps)**|
+|**2025-03-31**|**Training-Free Text-Guided Image Editing with Visual Autoregressive Model**|Yufei Wang et.al.|[2503.23897](http://arxiv.org/abs/2503.23897)|**[link](https://github.com/wyf0912/aredit)**|
 |**2025-03-30**|**Leveraging Vision-Language Foundation Models to Reveal Hidden Image-Attribute Relationships in Medical Imaging**|Amar Kumar et.al.|[2503.23618](http://arxiv.org/abs/2503.23618)|null|
 |**2025-03-28**|**Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**|Haijie Yang et.al.|[2503.22225](http://arxiv.org/abs/2503.22225)|null|
 |**2025-03-28**|**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing**|Achint Soni et.al.|[2503.21541](http://arxiv.org/abs/2503.21541)|**[link](https://github.com/locatedit/locatedit)**|
