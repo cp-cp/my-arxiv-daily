@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Fourier Acceleration in a Linear Sigma Model with Spontaneous Symmetry Breaking**|Cameron Cianci et.al.|[2504.17747](http://arxiv.org/abs/2504.17747)|null|
+|**2025-04-24**|**Operational experience and performance of the Silicon Vertex Detector after the first long shutdown of Belle II**|K. Ravindran et.al.|[2504.17715](http://arxiv.org/abs/2504.17715)|null|
+|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
+|**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
+|**2025-04-24**|**Cross-region Model Training with Communication-Computation Overlapping and Delay Compensation**|Ying Zhu et.al.|[2504.17672](http://arxiv.org/abs/2504.17672)|null|
+|**2025-04-24**|**Towards a comprehensive taxonomy of online abusive language informed by machine leaning**|Samaneh Hosseini Moghaddam et.al.|[2504.17653](http://arxiv.org/abs/2504.17653)|null|
+|**2025-04-24**|**Quantum coherence and counterdiabatic quantum computing**|Raziel Huerta-Ruiz et.al.|[2504.17642](http://arxiv.org/abs/2504.17642)|null|
+|**2025-04-24**|**Modular Cosmic Ray Detector (MCORD) and its Potential Use in Various Physics Experiments, Astrophysics and Geophysics**|M. Bielewicz et.al.|[2504.17631](http://arxiv.org/abs/2504.17631)|null|
+|**2025-04-24**|**STCL:Curriculum learning Strategies for deep learning image steganography models**|Fengchun Liu et.al.|[2504.17609](http://arxiv.org/abs/2504.17609)|null|
 |**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
 |**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101](http://arxiv.org/abs/2504.13101)|null|
 |**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
@@ -93,6 +103,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Dynamic Camera Poses and Where to Find Them**|Chris Rockwell et.al.|[2504.17788](http://arxiv.org/abs/2504.17788)|null|
+|**2025-04-24**|**Fourier Acceleration in a Linear Sigma Model with Spontaneous Symmetry Breaking**|Cameron Cianci et.al.|[2504.17747](http://arxiv.org/abs/2504.17747)|null|
+|**2025-04-24**|**Operational experience and performance of the Silicon Vertex Detector after the first long shutdown of Belle II**|K. Ravindran et.al.|[2504.17715](http://arxiv.org/abs/2504.17715)|null|
+|**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
+|**2025-04-24**|**Cross-region Model Training with Communication-Computation Overlapping and Delay Compensation**|Ying Zhu et.al.|[2504.17672](http://arxiv.org/abs/2504.17672)|null|
+|**2025-04-24**|**Towards a comprehensive taxonomy of online abusive language informed by machine leaning**|Samaneh Hosseini Moghaddam et.al.|[2504.17653](http://arxiv.org/abs/2504.17653)|null|
+|**2025-04-24**|**Quantum coherence and counterdiabatic quantum computing**|Raziel Huerta-Ruiz et.al.|[2504.17642](http://arxiv.org/abs/2504.17642)|null|
+|**2025-04-24**|**Modular Cosmic Ray Detector (MCORD) and its Potential Use in Various Physics Experiments, Astrophysics and Geophysics**|M. Bielewicz et.al.|[2504.17631](http://arxiv.org/abs/2504.17631)|null|
+|**2025-04-24**|**STCL:Curriculum learning Strategies for deep learning image steganography models**|Fengchun Liu et.al.|[2504.17609](http://arxiv.org/abs/2504.17609)|null|
+|**2025-04-24**|**Rescaling and unconstrained minimisation of convex quadratic maps**|Alexandra Zverovich et.al.|[2504.17596](http://arxiv.org/abs/2504.17596)|null|
 |**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101](http://arxiv.org/abs/2504.13101)|null|
 |**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
 |**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
@@ -171,6 +191,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
+|**2025-04-24**|**Enhancing Variational Autoencoders with Smooth Robust Latent Encoding**|Hyomin Lee et.al.|[2504.17219](http://arxiv.org/abs/2504.17219)|null|
+|**2025-04-22**|**Structure-Preserving Zero-Shot Image Editing via Stage-Wise Latent Injection in Diffusion Models**|Dasol Jeong et.al.|[2504.15723](http://arxiv.org/abs/2504.15723)|null|
+|**2025-04-21**|**MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World**|Ankit Dhiman et.al.|[2504.15397](http://arxiv.org/abs/2504.15397)|null|
+|**2025-04-20**|**MP-Mat: A 3D-and-Instance-Aware Human Matting and Editing Framework with Multiplane Representation**|Siyi Jiao et.al.|[2504.14606](http://arxiv.org/abs/2504.14606)|null|
+|**2025-04-19**|**Visual Prompting for One-shot Controllable Video Editing without Inversion**|Zhengbo Zhang et.al.|[2504.14335](http://arxiv.org/abs/2504.14335)|null|
+|**2025-04-19**|**PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling**|Alara Dirik et.al.|[2504.14219](http://arxiv.org/abs/2504.14219)|null|
+|**2025-04-18**|**Fashion-RAG: Multimodal Fashion Image Editing via Retrieval-Augmented Generation**|Fulvio Sanguigni et.al.|[2504.14011](http://arxiv.org/abs/2504.14011)|null|
+|**2025-04-18**|**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing**|Joowon Kim et.al.|[2504.13490](http://arxiv.org/abs/2504.13490)|null|
 |**2025-04-17**|**$\texttt{Complex-Edit}$ : CoT-Like Instruction Generation for Complexity-Controllable Image Editing Benchmark**|Siwei Yang et.al.|[2504.13143](http://arxiv.org/abs/2504.13143)|null|
 |**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
 |**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|**[link](https://github.com/ebenarous/editspecialists)**|
