@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.26
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Image Generation
@@ -115,7 +115,7 @@ layout: default
 |**2025-04-24**|**Rescaling and unconstrained minimisation of convex quadratic maps**|Alexandra Zverovich et.al.|[2504.17596](http://arxiv.org/abs/2504.17596)|null|
 |**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101](http://arxiv.org/abs/2504.13101)|null|
 |**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
-|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|**[link](https://github.com/skyworkai/skyreels-v2)**|
 |**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046](http://arxiv.org/abs/2504.13046)|null|
 |**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034](http://arxiv.org/abs/2504.13034)|null|
 |**2025-04-17**|**Simultaneous Polysomnography and Cardiotocography Reveal Temporal Correlation Between Maternal Obstructive Sleep Apnea and Fetal Hypoxia**|Jingyu Wang et.al.|[2504.13010](http://arxiv.org/abs/2504.13010)|null|
@@ -205,7 +205,7 @@ layout: default
 |**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
 |**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|**[link](https://github.com/ebenarous/editspecialists)**|
 |**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704](http://arxiv.org/abs/2504.12704)|null|
-|**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|null|
+|**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|**[link](https://github.com/clpbc/br-gen)**|
 |**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|**[link](https://github.com/hutaihang/atm)**|
 |**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|

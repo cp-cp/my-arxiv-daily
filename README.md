@@ -1,4 +1,4 @@
-## Updated on 2025.04.26
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -104,7 +104,7 @@
 |**2025-03-19**|**Efficient Personalization of Quantized Diffusion Model without Backpropagation**|Hoigi Seo et.al.|[2503.14868](http://arxiv.org/abs/2503.14868)|null|
 |**2025-03-18**|**ShapeShift: Towards Text-to-Shape Arrangement Synthesis with Content-Aware Geometric Constraints**|Vihaan Misra et.al.|[2503.14720](http://arxiv.org/abs/2503.14720)|null|
 
-<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Video Generation
 
@@ -122,7 +122,7 @@
 |**2025-04-24**|**Rescaling and unconstrained minimisation of convex quadratic maps**|Alexandra Zverovich et.al.|[2504.17596](http://arxiv.org/abs/2504.17596)|null|
 |**2025-04-17**|**An Empirically Grounded Identifiability Theory Will Accelerate Self-Supervised Learning Research**|Patrik Reizinger et.al.|[2504.13101](http://arxiv.org/abs/2504.13101)|null|
 |**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
-|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|**[link](https://github.com/skyworkai/skyreels-v2)**|
 |**2025-04-17**|**Variance-Reduced Fast Operator Splitting Methods for Stochastic Generalized Equations**|Quoc Tran-Dinh et.al.|[2504.13046](http://arxiv.org/abs/2504.13046)|null|
 |**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034](http://arxiv.org/abs/2504.13034)|null|
 |**2025-04-17**|**Simultaneous Polysomnography and Cardiotocography Reveal Temporal Correlation Between Maternal Obstructive Sleep Apnea and Fetal Hypoxia**|Jingyu Wang et.al.|[2504.13010](http://arxiv.org/abs/2504.13010)|null|
@@ -194,7 +194,7 @@
 |**2025-03-18**|**AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark**|Xinhao Xiang et.al.|[2503.14064](http://arxiv.org/abs/2503.14064)|**[link](https://github.com/shanexiangh/aigve_tool)**|
 |**2025-03-17**|**Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction**|Zheyuan Liu et.al.|[2503.12953](http://arxiv.org/abs/2503.12953)|null|
 
-<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Image Editing
 
@@ -214,7 +214,7 @@
 |**2025-04-17**|**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**|Guanlong Jiao et.al.|[2504.13109](http://arxiv.org/abs/2504.13109)|null|
 |**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|**[link](https://github.com/ebenarous/editspecialists)**|
 |**2025-04-17**|**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding**|Qianqian Sun et.al.|[2504.12704](http://arxiv.org/abs/2504.12704)|null|
-|**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|null|
+|**2025-04-16**|**Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach**|Lvpan Cai et.al.|[2504.11922](http://arxiv.org/abs/2504.11922)|**[link](https://github.com/clpbc/br-gen)**|
 |**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|**[link](https://github.com/hutaihang/atm)**|
 |**2025-04-13**|**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow**|Kenan Tang et.al.|[2504.09697](http://arxiv.org/abs/2504.09697)|**[link](https://github.com/kenantang/spice)**|
 |**2025-04-11**|**CoProSketch: Controllable and Progressive Sketch Generation with Diffusion Model**|Ruohao Zhan et.al.|[2504.08259](http://arxiv.org/abs/2504.08259)|null|
@@ -262,7 +262,7 @@
 |**2025-03-14**|**Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities**|Ruchika Chavhan et.al.|[2503.11905](http://arxiv.org/abs/2503.11905)|null|
 |**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|**[link](https://github.com/sincostanx/lusd)**|
 
-<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/cp-cp/my-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/cp-cp/my-arxiv-daily/graphs/contributors
