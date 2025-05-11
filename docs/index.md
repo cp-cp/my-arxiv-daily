@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-08**|**Statistical Characterization of Entanglement Degradation Under Markovian Noise in Composite Quantum Systems**|Nunzia Cerrato et.al.|[2505.05431](http://arxiv.org/abs/2505.05431)|null|
+|**2025-05-08**|**Radial Profiles of Radio Halos in Massive Galaxy Clusters: Diffuse Giants Over 2 Mpc**|K. Rajpurohit et.al.|[2505.05415](http://arxiv.org/abs/2505.05415)|null|
+|**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413](http://arxiv.org/abs/2505.05413)|null|
+|**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366](http://arxiv.org/abs/2505.05366)|null|
+|**2025-05-08**|**High-fidelity Grain Growth Modeling: Leveraging Deep Learning for Fast Computations**|Pungponhavoan Tep et.al.|[2505.05354](http://arxiv.org/abs/2505.05354)|null|
+|**2025-05-08**|**Laguerre-Gaussian pulses for spin-polarized ion beam acceleration**|Lars Reichwein et.al.|[2505.05337](http://arxiv.org/abs/2505.05337)|null|
+|**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301](http://arxiv.org/abs/2505.05301)|null|
+|**2025-05-08**|**Hydrodynamic and Electromagnetic Discrepancies between Neutron Star and Black Hole Spacetimes**|Jonathan Gorard et.al.|[2505.05299](http://arxiv.org/abs/2505.05299)|null|
+|**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231](http://arxiv.org/abs/2505.05231)|null|
 |**2025-05-07**|**Testing Thermal-Relic Dark Matter with a Dark Photon Mediator**|Gordan Krnjaic et.al.|[2505.04626](http://arxiv.org/abs/2505.04626)|null|
 |**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
 |**2025-05-07**|**Antenna-coupled integrated millimeterwave modulators and resonant electro-optic frequency combs**|A. Gaier et.al.|[2505.04585](http://arxiv.org/abs/2505.04585)|null|
@@ -133,6 +143,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Statistical Characterization of Entanglement Degradation Under Markovian Noise in Composite Quantum Systems**|Nunzia Cerrato et.al.|[2505.05431](http://arxiv.org/abs/2505.05431)|null|
+|**2025-05-08**|**Radial Profiles of Radio Halos in Massive Galaxy Clusters: Diffuse Giants Over 2 Mpc**|K. Rajpurohit et.al.|[2505.05415](http://arxiv.org/abs/2505.05415)|null|
+|**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413](http://arxiv.org/abs/2505.05413)|null|
+|**2025-05-08**|**SDR-RDMA: Software-Defined Reliability Architecture for Planetary Scale RDMA Communication**|Mikhail Khalilov et.al.|[2505.05366](http://arxiv.org/abs/2505.05366)|null|
+|**2025-05-08**|**High-fidelity Grain Growth Modeling: Leveraging Deep Learning for Fast Computations**|Pungponhavoan Tep et.al.|[2505.05354](http://arxiv.org/abs/2505.05354)|null|
+|**2025-05-08**|**Laguerre-Gaussian pulses for spin-polarized ion beam acceleration**|Lars Reichwein et.al.|[2505.05337](http://arxiv.org/abs/2505.05337)|null|
+|**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301](http://arxiv.org/abs/2505.05301)|null|
+|**2025-05-08**|**Hydrodynamic and Electromagnetic Discrepancies between Neutron Star and Black Hole Spacetimes**|Jonathan Gorard et.al.|[2505.05299](http://arxiv.org/abs/2505.05299)|null|
+|**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231](http://arxiv.org/abs/2505.05231)|null|
+|**2025-05-08**|**Diffusion Model Quantization: A Review**|Qian Zeng et.al.|[2505.05215](http://arxiv.org/abs/2505.05215)|null|
 |**2025-05-07**|**Testing Thermal-Relic Dark Matter with a Dark Photon Mediator**|Gordan Krnjaic et.al.|[2505.04626](http://arxiv.org/abs/2505.04626)|null|
 |**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
 |**2025-05-07**|**Antenna-coupled integrated millimeterwave modulators and resonant electro-optic frequency combs**|A. Gaier et.al.|[2505.04585](http://arxiv.org/abs/2505.04585)|null|
@@ -251,6 +271,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-08**|**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models**|Hongyang Zhu et.al.|[2505.05101](http://arxiv.org/abs/2505.05101)|null|
+|**2025-05-08**|**GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing**|Tong Wang et.al.|[2505.04915](http://arxiv.org/abs/2505.04915)|null|
+|**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
 |**2025-05-07**|**Multi-turn Consistent Image Editing**|Zijun Zhou et.al.|[2505.04320](http://arxiv.org/abs/2505.04320)|null|
 |**2025-05-07**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Inclusion AI et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|**[link](https://github.com/inclusionai/ming)**|
 |**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|**[link](https://github.com/bytedance/superedit)**|
