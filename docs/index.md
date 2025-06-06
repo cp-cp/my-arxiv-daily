@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Image Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Studying mirror acceleration via kinetic simulations of relativistic plasma turbulence**|Saikat Das et.al.|[2506.04212](http://arxiv.org/abs/2506.04212)|null|
+|**2025-06-04**|**Rounding error analysis of randomized CholeskyQR2 for sparse matrices**|Haoran Guan et.al.|[2506.04208](http://arxiv.org/abs/2506.04208)|null|
+|**2025-06-04**|**Global Kinetic Simulations of Monster Shocks and Their Emission**|Dominic Bernardi et.al.|[2506.04175](http://arxiv.org/abs/2506.04175)|null|
+|**2025-06-04**|**Faster Approx. Top-K: Harnessing the Full Power of Two Stages**|Yashas Samaga et.al.|[2506.04165](http://arxiv.org/abs/2506.04165)|null|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**Multi-view Surface Reconstruction Using Normal and Reflectance Cues**|Robin Bruneau et.al.|[2506.04115](http://arxiv.org/abs/2506.04115)|null|
+|**2025-06-04**|**Similarity-based fuzzy clustering scientific articles: potentials and challenges from mathematical and computational perspectives**|Vu Thi Huong et.al.|[2506.04045](http://arxiv.org/abs/2506.04045)|null|
+|**2025-06-04**|**Laser-plasma acceleration in a conical plasma channel with longitudinally inhomogeneous plasma profile**|D. S. Bondar et.al.|[2506.04021](http://arxiv.org/abs/2506.04021)|null|
+|**2025-06-04**|**CARL: Causality-guided Architecture Representation Learning for an Interpretable Performance Predictor**|Han Ji et.al.|[2506.04001](http://arxiv.org/abs/2506.04001)|null|
+|**2025-06-05**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988](http://arxiv.org/abs/2506.03988)|null|
 |**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
 |**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738](http://arxiv.org/abs/2505.23738)|null|
 |**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
@@ -183,6 +193,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
+|**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
+|**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-04**|**Studying mirror acceleration via kinetic simulations of relativistic plasma turbulence**|Saikat Das et.al.|[2506.04212](http://arxiv.org/abs/2506.04212)|null|
+|**2025-06-04**|**Rounding error analysis of randomized CholeskyQR2 for sparse matrices**|Haoran Guan et.al.|[2506.04208](http://arxiv.org/abs/2506.04208)|null|
+|**2025-06-04**|**Global Kinetic Simulations of Monster Shocks and Their Emission**|Dominic Bernardi et.al.|[2506.04175](http://arxiv.org/abs/2506.04175)|null|
+|**2025-06-04**|**Faster Approx. Top-K: Harnessing the Full Power of Two Stages**|Yashas Samaga et.al.|[2506.04165](http://arxiv.org/abs/2506.04165)|null|
+|**2025-06-04**|**Multi-view Surface Reconstruction Using Normal and Reflectance Cues**|Robin Bruneau et.al.|[2506.04115](http://arxiv.org/abs/2506.04115)|null|
+|**2025-06-04**|**Similarity-based fuzzy clustering scientific articles: potentials and challenges from mathematical and computational perspectives**|Vu Thi Huong et.al.|[2506.04045](http://arxiv.org/abs/2506.04045)|null|
+|**2025-06-04**|**Laser-plasma acceleration in a conical plasma channel with longitudinally inhomogeneous plasma profile**|D. S. Bondar et.al.|[2506.04021](http://arxiv.org/abs/2506.04021)|null|
 |**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|**[link](https://github.com/magref-video/magref)**|
 |**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
 |**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|**[link](https://github.com/zeroxleo/ml-agent)**|
@@ -351,6 +371,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-03**|**RefEdit: A Benchmark and Method for Improving Instruction-based Image Editing Model on Referring Expressions**|Bimsara Pathiraja et.al.|[2506.03448](http://arxiv.org/abs/2506.03448)|null|
+|**2025-06-03**|**ByteMorph: Benchmarking Instruction-Guided Image Editing with Non-Rigid Motions**|Di Chang et.al.|[2506.03107](http://arxiv.org/abs/2506.03107)|null|
+|**2025-06-03**|**DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing**|Zixiang Li et.al.|[2506.02560](http://arxiv.org/abs/2506.02560)|null|
+|**2025-06-03**|**RelationAdapter: Learning and Transferring Visual Relation with Diffusion Transformers**|Yan Gong et.al.|[2506.02528](http://arxiv.org/abs/2506.02528)|null|
+|**2025-06-02**|**IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout**|Fei Shen et.al.|[2506.01949](http://arxiv.org/abs/2506.01949)|null|
+|**2025-06-04**|**MedEBench: Revisiting Text-instructed Image Editing on Medical Domain**|Minghao Liu et.al.|[2506.01921](http://arxiv.org/abs/2506.01921)|null|
+|**2025-06-02**|**Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation**|Kaihang Pan et.al.|[2506.01480](http://arxiv.org/abs/2506.01480)|null|
+|**2025-06-02**|**DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing**|Chenxi Xie et.al.|[2506.01430](http://arxiv.org/abs/2506.01430)|null|
+|**2025-05-31**|**Concept-Centric Token Interpretation for Vector-Quantized Generative Models**|Tianze Yang et.al.|[2506.00698](http://arxiv.org/abs/2506.00698)|null|
 |**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
 |**2025-05-29**|**Weakly-supervised Localization of Manipulated Image Regions Using Multi-resolution Learned Features**|Ziyong Wang et.al.|[2505.23586](http://arxiv.org/abs/2505.23586)|null|
 |**2025-05-29**|**FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing**|Jeongsol Kim et.al.|[2505.23145](http://arxiv.org/abs/2505.23145)|**[link](https://github.com/flowalign/flowalign)**|
