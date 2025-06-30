@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Image Generation
@@ -21,7 +21,7 @@ layout: default
 |**2025-06-24**|**Tensor-Parallelism with Partially Synchronized Activations**|Itay Lamprecht et.al.|[2506.19645](http://arxiv.org/abs/2506.19645)|null|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-18**|**Heavy Ball and Nesterov Accelerations with Hessian-driven Damping for Nonconvex Optimization**|N. Hadjisavvas et.al.|[2506.15632](http://arxiv.org/abs/2506.15632)|null|
-|**2025-06-18**|**MicroRicci: A Greedy and Local Ricci Flow Solver for Self-Tuning Mesh Smoothing**|Le Vu Anh et.al.|[2506.15571](http://arxiv.org/abs/2506.15571)|null|
+|**2025-06-18**|**MicroRicci: A Greedy and Local Ricci Flow Solver for Self-Tuning Mesh Smoothing**|Le Vu Anh et.al.|[2506.15571](http://arxiv.org/abs/2506.15571)|**[link](https://github.com/csplevuanh/microricci)**|
 |**2025-06-18**|**Control and Realism: Best of Both Worlds in Layout-to-Image without Training**|Bonan Li et.al.|[2506.15563](http://arxiv.org/abs/2506.15563)|null|
 |**2025-06-18**|**Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention**|Syed Haider Ali et.al.|[2506.15562](http://arxiv.org/abs/2506.15562)|null|
 |**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/abs/2506.15556)|null|
@@ -246,7 +246,7 @@ layout: default
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-18**|**Sekai: A Video Dataset towards World Exploration**|Zhen Li et.al.|[2506.15675](http://arxiv.org/abs/2506.15675)|null|
 |**2025-06-18**|**Heavy Ball and Nesterov Accelerations with Hessian-driven Damping for Nonconvex Optimization**|N. Hadjisavvas et.al.|[2506.15632](http://arxiv.org/abs/2506.15632)|null|
-|**2025-06-18**|**MicroRicci: A Greedy and Local Ricci Flow Solver for Self-Tuning Mesh Smoothing**|Le Vu Anh et.al.|[2506.15571](http://arxiv.org/abs/2506.15571)|null|
+|**2025-06-18**|**MicroRicci: A Greedy and Local Ricci Flow Solver for Self-Tuning Mesh Smoothing**|Le Vu Anh et.al.|[2506.15571](http://arxiv.org/abs/2506.15571)|**[link](https://github.com/csplevuanh/microricci)**|
 |**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
 |**2025-06-18**|**Automated MRI Tumor Segmentation using hybrid U-Net with Transformer and Efficient Attention**|Syed Haider Ali et.al.|[2506.15562](http://arxiv.org/abs/2506.15562)|null|
 |**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/abs/2506.15556)|null|
@@ -479,7 +479,7 @@ layout: default
 |**2025-06-06**|**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing**|Yixuan Zhu et.al.|[2506.05934](http://arxiv.org/abs/2506.05934)|**[link](https://github.com/eternalevan/fade)**|
 |**2025-06-05**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
 |**2025-06-06**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
-|**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|null|
+|**2025-06-05**|**Invisible Backdoor Triggers in Image Editing Model via Deep Watermarking**|Yu-Feng Chen et.al.|[2506.04879](http://arxiv.org/abs/2506.04879)|**[link](https://github.com/aiiu-lab/backdoorimageediting)**|
 |**2025-06-04**|**HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation**|Hermann Kumbong et.al.|[2506.04421](http://arxiv.org/abs/2506.04421)|null|
 |**2025-06-04**|**Is Perturbation-Based Image Protection Disruptive to Image Editing?**|Qiuyu Tang et.al.|[2506.04394](http://arxiv.org/abs/2506.04394)|null|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
