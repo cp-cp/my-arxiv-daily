@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835](http://arxiv.org/abs/2507.02835)|null|
+|**2025-07-03**|**ML-based muon identification using a FNAL-NICADD scintillator chamber for the MID subsystem of ALICE 3**|Jesus Eduardo Muñoz Mendez et.al.|[2507.02817](http://arxiv.org/abs/2507.02817)|null|
+|**2025-07-03**|**Fluid dynamics of a liquid mirror space telescope**|Israel Gabay et.al.|[2507.02812](http://arxiv.org/abs/2507.02812)|null|
+|**2025-07-03**|**Bayesian frequency estimation at the fundamental quantum limit**|James W. Gardner et.al.|[2507.02811](http://arxiv.org/abs/2507.02811)|null|
+|**2025-07-03**|**Block triangular preconditioning for inverse source problems in time-space fractional diffusion equations**|Monoswini Majumdar et.al.|[2507.02809](http://arxiv.org/abs/2507.02809)|null|
+|**2025-07-03**|**Time-Masked Transformers with Lightweight Test-Time Adaptation for Neural Speech Decoding**|Ebrahim Feghhi et.al.|[2507.02800](http://arxiv.org/abs/2507.02800)|null|
+|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
+|**2025-07-03**|**A Leptonic Interpretation of the UHE Gamma-ray Emission from V4641 Sgr**|Su-Yu Wan et.al.|[2507.02763](http://arxiv.org/abs/2507.02763)|null|
+|**2025-07-03**|**Synthesizable by Design: A Retrosynthesis-Guided Framework for Molecular Analog Generation**|Shuan Chen et.al.|[2507.02752](http://arxiv.org/abs/2507.02752)|null|
 |**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408](http://arxiv.org/abs/2506.22408)|null|
 |**2025-06-27**|**Making Non-Markovian master equations accessible with approximate environments**|Gerardo Suárez et.al.|[2506.22346](http://arxiv.org/abs/2506.22346)|null|
 |**2025-06-27**|**Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling**|Erkan Turan et.al.|[2506.22304](http://arxiv.org/abs/2506.22304)|null|
@@ -244,12 +254,22 @@
 |**2025-03-19**|**Efficient Personalization of Quantized Diffusion Model without Backpropagation**|Hoigi Seo et.al.|[2503.14868](http://arxiv.org/abs/2503.14868)|null|
 |**2025-03-18**|**ShapeShift: Towards Text-to-Shape Arrangement Synthesis with Content-Aware Geometric Constraints**|Vihaan Misra et.al.|[2503.14720](http://arxiv.org/abs/2503.14720)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**Revealing a transitional epoch of large-scale cosmic anisotropy in the quasar distribution**|Amit Mondal et.al.|[2507.02835](http://arxiv.org/abs/2507.02835)|null|
+|**2025-07-03**|**ML-based muon identification using a FNAL-NICADD scintillator chamber for the MID subsystem of ALICE 3**|Jesus Eduardo Muñoz Mendez et.al.|[2507.02817](http://arxiv.org/abs/2507.02817)|null|
+|**2025-07-03**|**Fluid dynamics of a liquid mirror space telescope**|Israel Gabay et.al.|[2507.02812](http://arxiv.org/abs/2507.02812)|null|
+|**2025-07-03**|**Bayesian frequency estimation at the fundamental quantum limit**|James W. Gardner et.al.|[2507.02811](http://arxiv.org/abs/2507.02811)|null|
+|**2025-07-03**|**Block triangular preconditioning for inverse source problems in time-space fractional diffusion equations**|Monoswini Majumdar et.al.|[2507.02809](http://arxiv.org/abs/2507.02809)|null|
+|**2025-07-03**|**Time-Masked Transformers with Lightweight Test-Time Adaptation for Neural Speech Decoding**|Ebrahim Feghhi et.al.|[2507.02800](http://arxiv.org/abs/2507.02800)|null|
+|**2025-07-03**|**A Leptonic Interpretation of the UHE Gamma-ray Emission from V4641 Sgr**|Su-Yu Wan et.al.|[2507.02763](http://arxiv.org/abs/2507.02763)|null|
 |**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408](http://arxiv.org/abs/2506.22408)|null|
 |**2025-06-27**|**Making Non-Markovian master equations accessible with approximate environments**|Gerardo Suárez et.al.|[2506.22346](http://arxiv.org/abs/2506.22346)|null|
 |**2025-06-27**|**Unfolding Generative Flows with Koopman Operators: Fast and Interpretable Sampling**|Erkan Turan et.al.|[2506.22304](http://arxiv.org/abs/2506.22304)|null|
@@ -474,12 +494,20 @@
 |**2025-03-18**|**AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark**|Xinhao Xiang et.al.|[2503.14064](http://arxiv.org/abs/2503.14064)|**[link](https://github.com/shanexiangh/aigve_tool)**|
 |**2025-03-17**|**Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction**|Zheyuan Liu et.al.|[2503.12953](http://arxiv.org/abs/2503.12953)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Image Editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation**|Jimyeong Kim et.al.|[2507.01496](http://arxiv.org/abs/2507.01496)|null|
+|**2025-07-02**|**QC-OT: Optimal Transport with Quasiconformal Mapping**|Yuping Lv et.al.|[2507.01456](http://arxiv.org/abs/2507.01456)|null|
+|**2025-06-30**|**A Unified Framework for Stealthy Adversarial Generation via Latent Optimization and Transferability Enhancement**|Gaozheng Pei et.al.|[2506.23676](http://arxiv.org/abs/2506.23676)|null|
+|**2025-06-30**|**TAG-WM: Tamper-Aware Generative Image Watermarking via Diffusion Inversion Sensitivity**|Yuzhuo Chen et.al.|[2506.23484](http://arxiv.org/abs/2506.23484)|null|
+|**2025-06-29**|**OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**|Yuanhao Cai et.al.|[2506.23361](http://arxiv.org/abs/2506.23361)|null|
+|**2025-07-01**|**Ovis-U1 Technical Report**|Guo-Hua Wang et.al.|[2506.23044](http://arxiv.org/abs/2506.23044)|null|
+|**2025-06-28**|**Towards Explainable Bilingual Multimodal Misinformation Detection and Localization**|Yiwei He et.al.|[2506.22930](http://arxiv.org/abs/2506.22930)|null|
 |**2025-06-27**|**GenEscape: Hierarchical Multi-Agent Generation of Escape Room Puzzles**|Mengyi Shan et.al.|[2506.21839](http://arxiv.org/abs/2506.21839)|null|
 |**2025-06-26**|**Controllable 3D Placement of Objects with Scene-Aware Diffusion Models**|Mohamed Omran et.al.|[2506.21446](http://arxiv.org/abs/2506.21446)|null|
 |**2025-06-26**|**Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling**|Hansam Cho et.al.|[2506.21045](http://arxiv.org/abs/2506.21045)|null|
@@ -626,7 +654,7 @@
 |**2025-03-14**|**Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities**|Ruchika Chavhan et.al.|[2503.11905](http://arxiv.org/abs/2503.11905)|null|
 |**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|**[link](https://github.com/sincostanx/lusd)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/cp-cp/my-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/cp-cp/my-arxiv-daily/graphs/contributors
