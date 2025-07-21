@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
+|**2025-07-17**|**Crystal Collimation Cleaning Measurements with 6.5 TeV protons in the LHC**|Roberto Rossi et.al.|[2507.13315](http://arxiv.org/abs/2507.13315)|null|
+|**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
+|**2025-07-17**|**On Accelerated Mixing of the No-U-turn Sampler**|Stefan Oberdörster et.al.|[2507.13259](http://arxiv.org/abs/2507.13259)|null|
+|**2025-07-17**|**Dechanneling Population at Extreme Crystal Bending with 6.5 TeV Proton Beam**|Roberto Rossi et.al.|[2507.13252](http://arxiv.org/abs/2507.13252)|null|
+|**2025-07-17**|**The carbon cost of materials discovery: Can machine learning really accelerate the discovery of new photovoltaics?**|Matthew Walker et.al.|[2507.13246](http://arxiv.org/abs/2507.13246)|null|
+|**2025-07-17**|**Probing the nature of gravity in the low-acceleration limit: wide binaries of extreme separations with perspective effects**|Youngsub Yoon et.al.|[2507.13177](http://arxiv.org/abs/2507.13177)|null|
+|**2025-07-17**|**fastWDM3D: Fast and Accurate 3D Healthy Tissue Inpainting**|Alicia Durrer et.al.|[2507.13146](http://arxiv.org/abs/2507.13146)|null|
+|**2025-07-17**|**Resurrect Mask AutoRegressive Modeling for Efficient and Scalable Image Generation**|Yi Xin et.al.|[2507.13032](http://arxiv.org/abs/2507.13032)|null|
+|**2025-07-17**|**Hadronic acceleration in the young star cluster NGC 6611 inside the M16 region unveiled by Fermi-LAT: constraints on the acceleration efficiency**|Giada Peron et.al.|[2507.13009](http://arxiv.org/abs/2507.13009)|null|
 |**2025-07-14**|**Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop**|Elizabeth Fahsbender et.al.|[2507.10502](http://arxiv.org/abs/2507.10502)|null|
 |**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
 |**2025-07-14**|**Polaritonic Machine Learning for Graph-based Data Analysis**|Yuan Wang et.al.|[2507.10415](http://arxiv.org/abs/2507.10415)|null|
@@ -274,12 +284,22 @@
 |**2025-03-19**|**Efficient Personalization of Quantized Diffusion Model without Backpropagation**|Hoigi Seo et.al.|[2503.14868](http://arxiv.org/abs/2503.14868)|null|
 |**2025-03-18**|**ShapeShift: Towards Text-to-Shape Arrangement Synthesis with Content-Aware Geometric Constraints**|Vihaan Misra et.al.|[2503.14720](http://arxiv.org/abs/2503.14720)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Video Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Taming Diffusion Transformer for Real-Time Mobile Video Generation**|Yushu Wu et.al.|[2507.13343](http://arxiv.org/abs/2507.13343)|null|
+|**2025-07-17**|**Crystal Collimation Cleaning Measurements with 6.5 TeV protons in the LHC**|Roberto Rossi et.al.|[2507.13315](http://arxiv.org/abs/2507.13315)|null|
+|**2025-07-17**|**On Accelerated Mixing of the No-U-turn Sampler**|Stefan Oberdörster et.al.|[2507.13259](http://arxiv.org/abs/2507.13259)|null|
+|**2025-07-17**|**Dechanneling Population at Extreme Crystal Bending with 6.5 TeV Proton Beam**|Roberto Rossi et.al.|[2507.13252](http://arxiv.org/abs/2507.13252)|null|
+|**2025-07-17**|**The carbon cost of materials discovery: Can machine learning really accelerate the discovery of new photovoltaics?**|Matthew Walker et.al.|[2507.13246](http://arxiv.org/abs/2507.13246)|null|
+|**2025-07-17**|**Leveraging Pre-Trained Visual Models for AI-Generated Video Detection**|Keerthi Veeramachaneni et.al.|[2507.13224](http://arxiv.org/abs/2507.13224)|null|
+|**2025-07-17**|**Probing the nature of gravity in the low-acceleration limit: wide binaries of extreme separations with perspective effects**|Youngsub Yoon et.al.|[2507.13177](http://arxiv.org/abs/2507.13177)|null|
+|**2025-07-17**|**Resurrect Mask AutoRegressive Modeling for Efficient and Scalable Image Generation**|Yi Xin et.al.|[2507.13032](http://arxiv.org/abs/2507.13032)|null|
+|**2025-07-17**|**Hadronic acceleration in the young star cluster NGC 6611 inside the M16 region unveiled by Fermi-LAT: constraints on the acceleration efficiency**|Giada Peron et.al.|[2507.13009](http://arxiv.org/abs/2507.13009)|null|
+|**2025-07-17**|**Differential-informed Sample Selection Accelerates Multimodal Contrastive Learning**|Zihua Zhao et.al.|[2507.12998](http://arxiv.org/abs/2507.12998)|null|
 |**2025-07-14**|**Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop**|Elizabeth Fahsbender et.al.|[2507.10502](http://arxiv.org/abs/2507.10502)|null|
 |**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
 |**2025-07-14**|**Polaritonic Machine Learning for Graph-based Data Analysis**|Yuan Wang et.al.|[2507.10415](http://arxiv.org/abs/2507.10415)|null|
@@ -534,12 +554,14 @@
 |**2025-03-18**|**AIGVE-Tool: AI-Generated Video Evaluation Toolkit with Multifaceted Benchmark**|Xinhao Xiang et.al.|[2503.14064](http://arxiv.org/abs/2503.14064)|**[link](https://github.com/shanexiangh/aigve_tool)**|
 |**2025-03-17**|**Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction**|Zheyuan Liu et.al.|[2503.12953](http://arxiv.org/abs/2503.12953)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Image Editing
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
+|**2025-07-14**|**Sparse Fine-Tuning of Transformers for Generative Tasks**|Wei Chen et.al.|[2507.10855](http://arxiv.org/abs/2507.10855)|null|
 |**2025-07-14**|**LayLens: Improving Deepfake Understanding through Simplified Explanations**|Abhijeet Narang et.al.|[2507.10066](http://arxiv.org/abs/2507.10066)|null|
 |**2025-07-11**|**FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields**|Gwanhyeong Koo et.al.|[2507.08285](http://arxiv.org/abs/2507.08285)|null|
 |**2025-07-09**|**ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation**|Sherry X. Chen et.al.|[2507.07317](http://arxiv.org/abs/2507.07317)|null|
@@ -703,7 +725,7 @@
 |**2025-03-14**|**Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities**|Ruchika Chavhan et.al.|[2503.11905](http://arxiv.org/abs/2503.11905)|null|
 |**2025-03-14**|**LUSD: Localized Update Score Distillation for Text-Guided Image Editing**|Worameth Chinchuthakun et.al.|[2503.11054](http://arxiv.org/abs/2503.11054)|**[link](https://github.com/sincostanx/lusd)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/cp-cp/my-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/cp-cp/my-arxiv-daily/graphs/contributors
